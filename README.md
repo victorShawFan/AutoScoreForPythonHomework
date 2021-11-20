@@ -3,6 +3,8 @@
 
 AutoExePython_noInput.ipynb：不需要input的，直接将文件名收集然后os.popen执行，如果只用os.system，在python中看不到终端输出的结果
 
+![image](https://user-images.githubusercontent.com/40328132/142726658-d1b51293-5c3f-4a80-beb8-7294ded31953.png)
+
 ![image](https://user-images.githubusercontent.com/40328132/142726555-aa54c7bd-c8d4-446c-a598-9f47bed6b806.png)
 
 
