@@ -1,0 +1,2 @@
+# AutoScoreForPythonHomework
+因为在做python助教所以写了两个python脚本自动运行的脚本，一种是需要input的使用了shell脚本，一种是只需要直接执行在python中直接写的
